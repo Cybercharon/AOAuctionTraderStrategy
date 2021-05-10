@@ -1,6 +1,8 @@
 import requests
 import pandas as pd 
 
+# get item list from here https://github.com/broderickhyman/ao-bin-dumps
+
 class ItemType:
     def __init__(self):
         self.OH = 144
